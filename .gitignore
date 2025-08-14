@@ -40,7 +40,6 @@ share/python-wheels/
 venv/
 ENV/
 env/
-experimentalVenv/
 
 # IDE-specific files
 .idea/
