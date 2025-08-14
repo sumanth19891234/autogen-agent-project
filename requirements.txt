@@ -1,0 +1,17 @@
+# AutoGen core and extensions
+autogen-agentchat
+autogen-core
+autogen-ext
+
+# OpenAI API client
+openai
+
+# For Azure AD authentication and LiteLLM proxy
+litellm
+azure-identity
+
+# For web browsing capabilities
+playwright
+
+# For Jira integration
+jira
